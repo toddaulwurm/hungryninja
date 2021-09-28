@@ -1,0 +1,13 @@
+C:\Users\todda\OneDrive\Documents\CodingDojo\C#\LanguageFund\hungryninja\obj\Debug\netcoreapp3.1\hungryninja.csprojAssemblyReference.cache
+C:\Users\todda\OneDrive\Documents\CodingDojo\C#\LanguageFund\hungryninja\obj\Debug\netcoreapp3.1\hungryninja.AssemblyInfoInputs.cache
+C:\Users\todda\OneDrive\Documents\CodingDojo\C#\LanguageFund\hungryninja\obj\Debug\netcoreapp3.1\hungryninja.AssemblyInfo.cs
+C:\Users\todda\OneDrive\Documents\CodingDojo\C#\LanguageFund\hungryninja\obj\Debug\netcoreapp3.1\hungryninja.csproj.CoreCompileInputs.cache
+C:\Users\todda\OneDrive\Documents\CodingDojo\C#\LanguageFund\hungryninja\bin\Debug\netcoreapp3.1\hungryninja.exe
+C:\Users\todda\OneDrive\Documents\CodingDojo\C#\LanguageFund\hungryninja\bin\Debug\netcoreapp3.1\hungryninja.deps.json
+C:\Users\todda\OneDrive\Documents\CodingDojo\C#\LanguageFund\hungryninja\bin\Debug\netcoreapp3.1\hungryninja.runtimeconfig.json
+C:\Users\todda\OneDrive\Documents\CodingDojo\C#\LanguageFund\hungryninja\bin\Debug\netcoreapp3.1\hungryninja.runtimeconfig.dev.json
+C:\Users\todda\OneDrive\Documents\CodingDojo\C#\LanguageFund\hungryninja\bin\Debug\netcoreapp3.1\hungryninja.dll
+C:\Users\todda\OneDrive\Documents\CodingDojo\C#\LanguageFund\hungryninja\bin\Debug\netcoreapp3.1\hungryninja.pdb
+C:\Users\todda\OneDrive\Documents\CodingDojo\C#\LanguageFund\hungryninja\obj\Debug\netcoreapp3.1\hungryninja.dll
+C:\Users\todda\OneDrive\Documents\CodingDojo\C#\LanguageFund\hungryninja\obj\Debug\netcoreapp3.1\hungryninja.pdb
+C:\Users\todda\OneDrive\Documents\CodingDojo\C#\LanguageFund\hungryninja\obj\Debug\netcoreapp3.1\hungryninja.genruntimeconfig.cache
